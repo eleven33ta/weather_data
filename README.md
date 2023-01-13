@@ -1,5 +1,3 @@
-# weather_data
-
 <h1>Analysis of the Weather Data</h1>
 
 We provide basic analysis on the number of days where the temperature was in between threshold. We have chosen the days from October 1st, 2022 to December 4th, 2022, since these are the days in which we were without heating gas.
